@@ -9,7 +9,9 @@ The dataset used in this project is `SF_Airport_Weather.csv`, which contains his
 The data was obtained from the National Centers for Environmental Information (NCEI) website. Detailed documentation about the dataset can be found at the GHCND Documentation.
 
 <ins> Links </ins>
+
 https://www.ncdc.noaa.gov/cdo-web/search (Dataset Source)
+
 https://www.ncei.noaa.gov/data/daily-summaries/doc/GHCND_documentation.pdf (Dataset Documentation)
 
 ## Data Preprocessing
